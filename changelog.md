@@ -1,3 +1,7 @@
+## 1.2.3
+
+ - make "Render Shadow" apply to "Before Name" rendering (allowing to turn off shadows, which will also move the heads down a pixel)
+
 ## 1.2.2
 
  - port to 26.1
