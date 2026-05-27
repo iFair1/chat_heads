@@ -1,6 +1,6 @@
 ## 1.2.3
 
- - make "Render Shadow" apply to "Before Name" rendering (allowing to turn off shadows, which will also move the heads down a pixel)
+ - [1.21.9+] make "Render Shadow" apply to "Before Name" rendering (allowing to turn off shadows, which will also move the heads down a pixel)
 
 ## 1.2.2
 
