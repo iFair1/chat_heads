@@ -4,7 +4,7 @@
   "text.autoconfig.chat_heads.option.offsetNonPlayerText": "Oyuncu olmayan sohbet metnini hizala",
   "text.autoconfig.chat_heads.option.offsetNonPlayerText.@Tooltip": "Etkinleştirilirse tüm metinler hizalanır\nSadece \"Satırdan Önce\" konumlandırması için geçerlidir",
   "text.autoconfig.chat_heads.option.explanation": "\"UUID'ler\"? \"Sezgisel Yöntemler\"?",
-  "text.autoconfig.chat_heads.option.explanation.@Tooltip": "Normalde sunucular mesajı kimin gönderdiğini, yani gönderenin UUID'sini söyler.\nAncak birçok sunucu bunu yapmaz. Hatta bazen sahte UUID'ler bile gönderebilirler. Bu durumlarda\nsezgisel bir yöntem kullanmalıyız, yani mesaj içeriğine bakarak tahmin yürütürüz.\nBu yöntem kusursuz olmadığı için kafalar yanlış eşleşebilir.",
+  "text.autoconfig.chat_heads.option.explanation.@Tooltip": "Normalde sunucular mesajı kimin gönderdiğini, yani gönderenin UUID'sini söyler.\nAncak birçok sunucu bunu yapmaz. Hatta bazen sahte UUID'ler bile gönderebilirler. Bu durumlarda\nsezgisel bir yöntem kullanırız, yani mesaj içeriğine bakarak tahmin yürütürüz.\nBu yöntem kusursuz olmadığı için kafalar yanlış eşleşebilir.",
   "text.autoconfig.chat_heads.option.renderPosition": "Çizim Konumu",
   "text.autoconfig.chat_heads.option.renderPosition.BEFORE_LINE": "Satırdan Önce",
   "text.autoconfig.chat_heads.option.renderPosition.BEFORE_NAME": "İsimden Önce",
